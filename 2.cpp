@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+/* Muhammad Jadid AbiPraya - kloter 3 */
 
 void buyEgg(int tanggal,int uang){
     int butir,jumlah,lusin = 12;
