@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+/* Muhammad Jadid AbiPraya - Kloter 3 */
+
 
 //fungsi untuk melakukan pattern
 void looping(char word[9]){
